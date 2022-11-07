@@ -1,3 +1,3 @@
 # Bank-loan-prediction
 
-Approval of bank loan prediction
+Predicting whether a bank loan is approve or not
