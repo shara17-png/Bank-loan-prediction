@@ -1,6 +1,6 @@
 # Bank-loan-prediction
 
-Predicting whether a bank loan is approve or not
+Predicting whether a bank loan will approve or not
 
 /* By:-
        53. M Sanathoi Singh
